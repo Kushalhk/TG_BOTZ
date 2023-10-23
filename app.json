@@ -1,5 +1,5 @@
 {
-    "name": "TG_BOTZ",
+    "name": "SHD_Autobot1",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "stack": "container",
     "keywords": [
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Kushalhk/TG_BOTZ",
-    "repository": "https://github.com/Kushalhk/TG_BOTZ",
+    "website": "https://github.com/Skhan021/SHD_Autobot1",
+    "repository": "https://github.com/Skhan021/SHD_Autobot1",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
